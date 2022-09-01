@@ -1,0 +1,7 @@
+{
+    "mongoURI": "mongodb+srv://mazhar:PgtD4EuoeFw7dNXE@cluster0.fjags.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "tokenSecret":"my-token-secret",
+    "cloudName":"divgzupxz",
+    "apiKey":"963494539663679",
+    "apiSecret":"WKetBF2MhwRzYJtKBjHIW6UQGTo"
+}
